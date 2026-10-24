@@ -1,0 +1,6 @@
+{
+  "name": "C² Tech — MASC Chennai 3D Department Website",
+  "description": "Think Beyond Code. Build Beyond Limits. Official 3D portal for Department of Computer Science & Department of Computer Applications at Madha Arts and Science College (MASC), Kundrathur, Chennai - 600128, Tamil Nadu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
